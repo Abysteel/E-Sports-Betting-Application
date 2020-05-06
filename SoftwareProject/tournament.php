@@ -121,7 +121,16 @@ window.onload = function() {
 
 <div class="row">
   <div class="column" style="background-color: rgba(100, 100, 100, 0.5);">
-    <center><h2 style="color:black"><u>Tournament 1</u></h2>
+    
+  <style>
+h2 {
+  text-decoration: underline;
+  -webkit-text-decoration-color: purple; /* Safari */
+  text-decoration-color: purple;
+}
+</style>  
+    
+    <center><h2 style="color:black">Tournament 1</h2>
 
       <style>
           .button1 {
