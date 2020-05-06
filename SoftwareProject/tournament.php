@@ -121,7 +121,7 @@ window.onload = function() {
 
 <div class="row">
   <div class="column" style="background-color: rgba(100, 100, 100, 0.5);">
-    <center><h2>Tournament 1</h2>
+    <center><h2 style="color:black"><u>Tournament 1</u></h2>
 
       <style>
           .button1 {
@@ -148,7 +148,7 @@ window.onload = function() {
   </div>
 
   <div class="column" style="background-color: rgba(100, 100, 100, 0.5);">
-    <center><h2>Tournament 2</h2>
+    <center><h2 style="color:black">Tournament 2</h2>
 
       <style>
           .button2 {
@@ -175,7 +175,7 @@ window.onload = function() {
   </div>
 
   <div class="column" style="background-color: rgba(100, 100, 100, 0.5);">
-    <center><h2>Tournament 3</h2>
+    <center><h2 style="color:black">Tournament 3</h2>
 
       <style>
           .button {
@@ -203,7 +203,7 @@ window.onload = function() {
   </div>
 
   <div class="column" style="background-color: rgba(100, 100, 100, 0.5);">
-    <center><h2>Tournament 4</h2>
+    <center><h2 style="color:black">Tournament 4</h2>
 
       <style>
           .button {
