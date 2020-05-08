@@ -307,6 +307,9 @@ body, html {
       <input type="number" onclick="snd.play()" name="tenth_no" min="5" max="20">
       <input onclick="myFunction()" type="submit" name="submit5" value="Place Bet"></button>
 
+    <?php
+        echo '<div>' . filter_input(INPUT_GET, 'input', FILTER_SANITIZE_SPECIAL_CHARS) . '</div>';
+    ?>
 
       <?php
           $sum="";
